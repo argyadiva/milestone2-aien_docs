@@ -1,0 +1,16 @@
+{
+  "scenario": "synthetic_delivery_operations",
+  "seed": 20260927,
+  "order_date_start": "2026-07-01",
+  "order_date_end": "2026-09-20",
+  "row_counts": {
+    "shipment_fact": 600,
+    "carrier_daily": 246,
+    "city_daily": 323
+  },
+  "sha256": {
+    "shipment_fact.csv": "3153e89f78dd63a10a99f1392c2d43bac4264c81d413296be6ba598d8a596742",
+    "carrier_daily.csv": "24d8ad178d832c1e4d09fb8c0e6bb4f2d91bba0b2fbebad09f21549154b28d36",
+    "city_daily.csv": "7bc96a160936dd66aa0c0d7ae9156ae088ffaa07f0964a16f2c347380218619b"
+  }
+}
